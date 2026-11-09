@@ -1,17 +1,30 @@
 {
   "name": "yeu-day-hoc",
-  "version": "1.3.9",
+  "version": "1.4.0",
   "description": "Soạn câu hỏi cho ngân hàng Yêu Dạy Học: tra khung chương trình + mục lục sách từ kho Yêu Dạy Học, gắn mức độ theo cách cô hay gắn, hỏi cô trước khi soạn, tự kiểm, lưu vào Chờ duyệt; ghép đề nháp theo mẫu khung đề và ma trận từ câu đã duyệt; xem trước rồi mới lưu.",
   "author": {
-    "name": "Yêu Dạy Học"
+    "name": "Yêu Dạy Học",
+    "email": "doduclong2208@gmail.com",
+    "url": "https://yeudayhoc.vn"
   },
+  "homepage": "https://yeudayhoc.vn",
+  "repository": "https://github.com/DoLong22/yeu-day-hoc-plugin",
+  "license": "MIT",
   "keywords": [
     "giáo dục",
     "soạn đề",
     "câu hỏi",
     "giáo viên",
-    "Việt Nam"
+    "Việt Nam",
+    "education",
+    "teacher",
+    "quiz",
+    "Vietnam"
   ],
+  "documentationUrl": "https://app.yeudayhoc.vn/ai-connections/guide?ai=claude",
+  "supportUrl": "https://yeudayhoc.vn/ho-tro",
+  "privacyPolicyUrl": "https://yeudayhoc.vn/chinh-sach-quyen-rieng-tu",
+  "termsOfServiceUrl": "https://yeudayhoc.vn/dieu-khoan",
   "displayName": "Yêu Dạy Học",
-  "logo": "./assets/icon.png"
+  "icon": "./assets/icon.png"
 }

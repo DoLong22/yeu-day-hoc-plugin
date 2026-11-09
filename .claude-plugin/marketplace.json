@@ -1,7 +1,10 @@
 {
   "name": "yeu-day-hoc",
+  "description": "Plugin Yêu Dạy Học cho Claude — soạn câu hỏi, soạn đề theo ma trận vào ngân hàng câu hỏi của giáo viên Việt Nam.",
   "owner": {
-    "name": "Yêu Dạy Học"
+    "name": "Yêu Dạy Học",
+    "email": "doduclong2208@gmail.com",
+    "url": "https://yeudayhoc.vn"
   },
   "plugins": [
     {
@@ -9,7 +12,14 @@
       "displayName": "Yêu Dạy Học",
       "source": "./",
       "description": "Soạn câu hỏi cho ngân hàng Yêu Dạy Học: tra khung chương trình + mục lục sách từ kho Yêu Dạy Học, gắn mức độ theo cách cô hay gắn, hỏi cô trước khi soạn, tự kiểm, lưu vào Chờ duyệt; ghép đề nháp theo mẫu khung đề và ma trận từ câu đã duyệt; xem trước rồi mới lưu.",
-      "version": "1.3.9"
+      "category": "education",
+      "tags": [
+        "giáo dục",
+        "soạn đề",
+        "giáo viên",
+        "education"
+      ],
+      "homepage": "https://yeudayhoc.vn"
     }
   ]
 }
