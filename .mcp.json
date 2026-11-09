@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yeu-day-hoc": {
+      "type": "http",
+      "url": "https://app.yeudayhoc.vn/api/mcp"
+    }
+  }
+}
